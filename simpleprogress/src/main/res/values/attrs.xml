@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressBar">
+        <attr name="sp_progresscolor" format="color"/>
+        <attr name="sp_backgroundcolor" format="color"/>
+        <attr name="sp_progress" format="integer"/>
+        <attr name="sp_stroke" format="float"/>
+    </declare-styleable>
+</resources>
